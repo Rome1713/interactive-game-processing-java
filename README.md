@@ -1,4 +1,4 @@
-# STAR PEACE
+# STAR PEACE IAT 806
 
 This repository now contains the **STAR PEACE** Processing sketch—a radiant, mouse-driven arcade blaster with collectible juggling, bullet-based bomb defusing, and a lush parallax night sky.
 
